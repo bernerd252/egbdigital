@@ -19,21 +19,6 @@
 }
 
 "scripts": {
-    "start": "node CSS3Renderer.js"
+    "start": "node Node.js"
 }
 
-"scripts": {
-    "start": "node materialize.js"
-}
-
-"scripts": {
-    "start": "node sprites.js"
-}
-
-"scripts": {
-    "start": "node TrackballControls.js"
-}
-
-"scripts": {
-    "start": "node tween.min.js"
-}
