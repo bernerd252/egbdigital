@@ -17,3 +17,23 @@
   },
   "homepage": "https://github.com/bernerd252/egbdigital#readme"
 }
+
+"scripts": {
+    "start": "node CSS3Renderer.js"
+}
+
+"scripts": {
+    "start": "node materialize.js"
+}
+
+"scripts": {
+    "start": "node sprites.js"
+}
+
+"scripts": {
+    "start": "node TrackballControls.js"
+}
+
+"scripts": {
+    "start": "node tween.min.js"
+}
