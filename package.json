@@ -18,7 +18,3 @@
   "homepage": "https://github.com/bernerd252/egbdigital#readme"
 }
 
-"scripts": {
-    "start": "node Node.js"
-}
-
